@@ -1,2 +1,2 @@
-# magicmajie.github.com
+# magicmajie.github.io
 magicmajie's blog
